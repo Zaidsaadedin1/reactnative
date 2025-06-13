@@ -1,0 +1,16 @@
+{
+  "appName": "My Application",
+  "welcomeMessage": "Welcome to My Application!",
+  "loginButton": "Login",
+  "logoutButton": "Logout",
+  "settings": "Settings",
+  "profile": "Profile",
+  "errorOccurred": "An error occurred. Please try again.",
+  "successMessage": "Operation completed successfully.",
+  "loading": "Loading...",
+  "saveChanges": "Save Changes",
+  "cancel": "Cancel",
+  "language": "Language",
+  "arabic": "Arabic",
+  "English": "English"
+}
